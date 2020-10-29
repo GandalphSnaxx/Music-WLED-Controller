@@ -1,5 +1,5 @@
 # Music WLED Controller
-Hi! Welcome to another one of my for fun projects! I have fallen in love with the WLED program by Aircookie. My only issue with this wonderful LED program is that I cant sync the LEDs to songs when I host a party (pre-covid of course)! Well I decided to give this issue a go myself. So far, I have this dedicated PCB that incldes all the possible peripherials that work with WLED. This PCB works with other music visualiser programs I have used, I just need to merge these programs together.
+Hi! Welcome to another one of my for fun projects! I have fallen in love with the WLED program by Aircookie (https://github.com/Aircoookie/WLED/wiki). My only issue with this wonderful LED program is that I cant sync the LEDs to songs when I host a party (pre-covid of course)! Well I decided to give this issue a go myself. So far, I have this dedicated PCB that incldes all the possible peripherials that work with WLED. This PCB works with other music visualiser programs I have used, I just need to merge these programs together.
 ## Included on the PCB
 * 5-18V Input (The voltage is passed through to the LED screw terminal so make sure the voltages match!)
 * Power LEDs
